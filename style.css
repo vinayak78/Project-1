@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(44, 44, 136);
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+}
+ 
+.quotebutton{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.fleetbutton{
+    background-color: aliceblue;
+    color: blue;
+    border-radius:10px;
+    font-weight: bold;
+    
+}
+h2{
+    color: aliceblue;
+}
+pre{
+    color:aliceblue;
+}
+.fleet{
+    margin: 25px;
+}
+.Conatiner1{
+     margin: 25px;
+}
